@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/21/trunk/SharpFlac/Blocks
+END
+Padding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/SharpFlac/Blocks/Padding.cs
+END
+VorbisComment.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/SharpFlac/Blocks/VorbisComment.cs
+END
+StreamInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/SharpFlac/Blocks/StreamInfo.cs
+END
+VorbisComments.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/SharpFlac/Blocks/VorbisComments.cs
+END
+MetadataBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10/trunk/SharpFlac/Blocks/MetadataBlock.cs
+END
+Picture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/SharpFlac/Blocks/Picture.cs
+END
+ApplicationBlock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/SharpFlac/Blocks/ApplicationBlock.cs
+END
+SeekTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/SharpFlac/Blocks/SeekTable.cs
+END
+SeekPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/trunk/SharpFlac/Blocks/SeekPoint.cs
+END
+BlockHeader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/17/trunk/SharpFlac/Blocks/BlockHeader.cs
+END

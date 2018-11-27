@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/22/trunk/FlacTest
+END
+FlacTest.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21/trunk/FlacTest/FlacTest.csproj
+END
+MetadataTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/FlacTest/MetadataTests.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/22/trunk/FlacTest/Program.cs
+END
